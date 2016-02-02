@@ -1,0 +1,15 @@
+{
+  "name": "electron-d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/electron-d3.js",
+  "scripts": {
+    "release": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamy Golden",
+  "license": "MIT",
+  "devDependencies": {
+    "uglify-js": "^2.6.1"
+  }
+}

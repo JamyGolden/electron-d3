@@ -1,0 +1,22 @@
+{
+  "name": "electron-d3",
+  "version": "1.0.0",
+  "authors": [
+    "Jamy Golden"
+  ],
+  "description": "",
+  "main": "dist/electron-d3.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.14"
+  }
+}
