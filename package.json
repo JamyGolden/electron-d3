@@ -1,6 +1,6 @@
 {
   "name": "electron-d3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/electron-d3.js",
   "scripts": {

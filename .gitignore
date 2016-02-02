@@ -1,5 +1,4 @@
 # Project specific
-dist/
 bower_components/
 node_modules/
 
